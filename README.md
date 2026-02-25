@@ -1,0 +1,1 @@
+EduRisk AI is an AI-powered academic decision support platform designed to identify at-risk students using machine learning and real-time analytics. The system integrates predictive modeling, microservice architecture, and business intelligence dashboards to support data-driven academic intervention.
